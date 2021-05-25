@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <string name="page_popular">Popular</string>
+    <string name="page_top_rated">Top Rated</string>
+    <string name="page_favourites">Favourites</string>
+
+    <string name="poster_content_description">Movie poster</string>
+
+    <string name="extra_movie_id" translatable="false">id</string>
+    <string name="extra_movie_title" translatable="false">title</string>
+    <string name="extra_movie_release_date" translatable="false">release_date</string>
+    <string name="extra_movie_vote_average" translatable="false">vote_average</string>
+    <string name="extra_movie_overview" translatable="false">overview</string>
+    <string name="extra_movie_poster_url" translatable="false">poster_url</string>
+
+    <string name="tab_item_movie_details">Details</string>
+    <string name="tab_item_movie_videos">Videos</string>
+    <string name="tab_item_movie_reviews">Reviews</string>
+
+    <string name="date_format" translatable="false">yyyy-MM-dd</string>
+    <string name="default_text">N/A</string>
+    <string name="vote_average_suffix">/10</string>
+
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="added_to_favourites">Added to favourites</string>
+    <string name="remove_from_favourites">Remove from favourites</string>
+    <string name="removed_from_favourites">Removed from favourites</string>
+
+    <string name="movies_database_name" translatable="false">movies_db</string>
+
+</resources>
