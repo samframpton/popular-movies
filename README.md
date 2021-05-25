@@ -1,2 +1,2 @@
-# popular-movies
+# Popular Movies
 Udacity android developer nanodegree project
